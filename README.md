@@ -1,6 +1,8 @@
 To run this project on your local machine follow the following steps:-
 1- clone this repository
+
 2- run this project through your prefered ide
+
 3- open http://localhost:8080
 
 
