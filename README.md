@@ -1,4 +1,4 @@
-To run this project on your local machine follow the following steps:-
+#To run this project on your local machine follow the following steps:-
 
 1- clone this repository
 
@@ -9,7 +9,7 @@ To run this project on your local machine follow the following steps:-
 
 
 
-This cart service has several functionality:-
+#This cart service has several functionality:-
 
 1) Get all carts - by going to http://localhost:8080/carts
 
