@@ -1,4 +1,4 @@
-#To run this project on your local machine follow the following steps:-
+# To run this project on your local machine follow the following steps:-
 
 1- clone this repository
 
@@ -9,7 +9,7 @@
 
 
 
-#This cart service has several functionality:-
+# This cart service has several functionality:-
 
 1) Get all carts - by going to http://localhost:8080/carts
 
@@ -28,6 +28,7 @@
 7) Delete a cart - by going to http://locahost:8080/carts/{id}
 
 A mock cart may look like-
+```
 {
     "userId": 1,
     "date": "2020-01-02",
@@ -46,5 +47,6 @@ A mock cart may look like-
       }
     ]
 }
+```
 
       
